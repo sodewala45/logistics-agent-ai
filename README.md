@@ -4,7 +4,7 @@ emoji: 🚛
 colorFrom: green
 colorTo: blue
 sdk: streamlit
-app_file: app.py
+app_file: streamlit_app.py
 pinned: false
 description: Smart Route Optimization & Shipment Intelligence Agent
 ---
