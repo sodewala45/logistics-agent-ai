@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+# Add any extra libraries your specific logic uses below
+# requests
+# python-dotenv
